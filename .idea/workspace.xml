@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43e387e5-0d34-4373-85c2-0f6fe4deebcc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hHFyyEmGzmlAbfatab1sSw3lds" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bigff.blog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\项目\blog\后端\src\main\resources\templates" />
+      <recent name="D:\项目\blog\后端\src\main\resources\templates\admin" />
+      <recent name="D:\项目\blog\后端\src\main\resources" />
+      <recent name="D:\项目\blog\后端\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bigff.blog.web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\项目\blog\后端\src\main\resources\Semantic-UI-CSS-master" />
+      <recent name="D:\项目\blog\后端\123" />
+      <recent name="D:\项目\blog\后端\log" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogApplication ">
+    <configuration name="MD5utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bigff.blog.po.util.MD5utils" />
+      <module name="后端" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigff.blog.po.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplication " type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="后端" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigff.blog.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bigff.blog.BlogApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BlogApplication " />
+        <item itemvalue="Application.MD5utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43e387e5-0d34-4373-85c2-0f6fe4deebcc" name="Default Changelist" comment="" />
+      <created>1599660368449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599660368449</updated>
+      <workItem from="1599660372834" duration="1732000" />
+      <workItem from="1599717416906" duration="11557000" />
+      <workItem from="1599790702689" duration="18970000" />
+      <workItem from="1599881411964" duration="10450000" />
+      <workItem from="1599903085583" duration="8497000" />
+      <workItem from="1599979186029" duration="6660000" />
+      <workItem from="1600087352230" duration="2279000" />
+      <workItem from="1600091579241" duration="3025000" />
+      <workItem from="1600136750609" duration="13293000" />
+      <workItem from="1600247094371" duration="11755000" />
+      <workItem from="1600329861329" duration="381000" />
+      <workItem from="1600343007721" duration="4133000" />
+      <workItem from="1600398602300" duration="14823000" />
+      <workItem from="1600483087995" duration="15862000" />
+      <workItem from="1600522219049" duration="3459000" />
+      <workItem from="1600567255250" duration="15102000" />
+      <workItem from="1600694795814" duration="3237000" />
+      <workItem from="1600741068625" duration="19197000" />
+      <workItem from="1600867110135" duration="1876000" />
+      <workItem from="1601175935193" duration="1459000" />
+      <workItem from="1601189795532" duration="5709000" />
+      <workItem from="1602306186008" duration="1662000" />
+      <workItem from="1602384698584" duration="7869000" />
+      <workItem from="1602649955497" duration="255000" />
+      <workItem from="1604583133700" duration="860000" />
+      <workItem from="1608193010416" duration="7599000" />
+      <workItem from="1608260521131" duration="6759000" />
+      <workItem from="1608293704832" duration="1716000" />
+      <workItem from="1608296884744" duration="1962000" />
+      <workItem from="1608374547819" duration="22735000" />
+      <workItem from="1608527124489" duration="2614000" />
+      <workItem from="1608555284293" duration="3268000" />
+      <workItem from="1608605748249" duration="16830000" />
+      <workItem from="1608792877470" duration="5089000" />
+      <workItem from="1609653451393" duration="1996000" />
+      <workItem from="1609729148637" duration="1912000" />
+      <workItem from="1610254847912" duration="6968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+</project>

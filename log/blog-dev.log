@@ -1,0 +1,113 @@
+2020-09-12 15:15:09.171  INFO 8344 --- [main] com.bigff.blog.BlogApplication           : Starting BlogApplication using Java 1.8.0_261 on DESKTOP-UE5H5T5 with PID 8344 (D:\项目\blog\后端\target\classes started by bigff in D:\项目\blog\后端)
+2020-09-12 15:15:09.177 DEBUG 8344 --- [main] com.bigff.blog.BlogApplication           : Running with Spring Boot v2.4.0-SNAPSHOT, Spring v5.3.0-SNAPSHOT
+2020-09-12 15:15:09.177  INFO 8344 --- [main] com.bigff.blog.BlogApplication           : The following profiles are active: dev
+2020-09-12 15:15:11.037  INFO 8344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-12 15:15:11.046  INFO 8344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 15:15:11.047  INFO 8344 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 15:15:11.137  INFO 8344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 15:15:11.137  INFO 8344 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1867 ms
+2020-09-12 15:15:11.535  INFO 8344 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 15:15:11.616  INFO 8344 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-12 15:15:11.797  INFO 8344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-12 15:15:11.809  INFO 8344 --- [main] com.bigff.blog.BlogApplication           : Started BlogApplication in 3.539 seconds (JVM running for 4.842)
+2020-09-12 15:18:09.021  INFO 7912 --- [main] com.bigff.blog.BlogApplication           : Starting BlogApplication using Java 1.8.0_261 on DESKTOP-UE5H5T5 with PID 7912 (D:\项目\blog\后端\target\classes started by bigff in D:\项目\blog\后端)
+2020-09-12 15:18:09.025 DEBUG 7912 --- [main] com.bigff.blog.BlogApplication           : Running with Spring Boot v2.4.0-SNAPSHOT, Spring v5.3.0-SNAPSHOT
+2020-09-12 15:18:09.026  INFO 7912 --- [main] com.bigff.blog.BlogApplication           : The following profiles are active: dev
+2020-09-12 15:18:10.104  INFO 7912 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-12 15:18:10.111  INFO 7912 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 15:18:10.111  INFO 7912 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 15:18:10.192  INFO 7912 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 15:18:10.192  INFO 7912 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1098 ms
+2020-09-12 15:18:10.454  INFO 7912 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 15:18:10.524  INFO 7912 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-12 15:18:10.677  INFO 7912 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-12 15:18:10.686  INFO 7912 --- [main] com.bigff.blog.BlogApplication           : Started BlogApplication in 2.203 seconds (JVM running for 2.939)
+2020-09-12 15:22:29.695  INFO 11732 --- [main] com.bigff.blog.BlogApplication           : Starting BlogApplication using Java 1.8.0_261 on DESKTOP-UE5H5T5 with PID 11732 (D:\项目\blog\后端\target\classes started by bigff in D:\项目\blog\后端)
+2020-09-12 15:22:29.698 DEBUG 11732 --- [main] com.bigff.blog.BlogApplication           : Running with Spring Boot v2.4.0-SNAPSHOT, Spring v5.3.0-SNAPSHOT
+2020-09-12 15:22:29.698  INFO 11732 --- [main] com.bigff.blog.BlogApplication           : The following profiles are active: dev
+2020-09-12 15:22:30.808  INFO 11732 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-12 15:22:30.815  INFO 11732 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 15:22:30.815  INFO 11732 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 15:22:30.885  INFO 11732 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 15:22:30.885  INFO 11732 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1119 ms
+2020-09-12 15:22:31.143  INFO 11732 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 15:22:31.216  INFO 11732 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-12 15:22:31.376  INFO 11732 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-12 15:22:31.385  INFO 11732 --- [main] com.bigff.blog.BlogApplication           : Started BlogApplication in 2.225 seconds (JVM running for 2.979)
+2020-09-12 15:29:49.317  INFO 7264 --- [main] com.bigff.blog.BlogApplication           : Starting BlogApplication using Java 1.8.0_261 on DESKTOP-UE5H5T5 with PID 7264 (D:\项目\blog\后端\target\classes started by bigff in D:\项目\blog\后端)
+2020-09-12 15:29:49.319 DEBUG 7264 --- [main] com.bigff.blog.BlogApplication           : Running with Spring Boot v2.4.0-SNAPSHOT, Spring v5.3.0-SNAPSHOT
+2020-09-12 15:29:49.320  INFO 7264 --- [main] com.bigff.blog.BlogApplication           : The following profiles are active: dev
+2020-09-12 15:29:50.406  INFO 7264 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-12 15:29:50.412  INFO 7264 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 15:29:50.413  INFO 7264 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 15:29:50.489  INFO 7264 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 15:29:50.489  INFO 7264 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1108 ms
+2020-09-12 15:29:50.748  INFO 7264 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 15:29:50.819  INFO 7264 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-12 15:29:50.997  INFO 7264 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-12 15:29:51.006  INFO 7264 --- [main] com.bigff.blog.BlogApplication           : Started BlogApplication in 2.217 seconds (JVM running for 2.97)
+2020-09-12 15:37:03.233  INFO 12336 --- [main] com.bigff.blog.BlogApplication           : Starting BlogApplication using Java 1.8.0_261 on DESKTOP-UE5H5T5 with PID 12336 (D:\项目\blog\后端\target\classes started by bigff in D:\项目\blog\后端)
+2020-09-12 15:37:03.237 DEBUG 12336 --- [main] com.bigff.blog.BlogApplication           : Running with Spring Boot v2.4.0-SNAPSHOT, Spring v5.3.0-SNAPSHOT
+2020-09-12 15:37:03.238  INFO 12336 --- [main] com.bigff.blog.BlogApplication           : The following profiles are active: dev
+2020-09-12 15:37:04.244  INFO 12336 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-12 15:37:04.252  INFO 12336 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 15:37:04.252  INFO 12336 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 15:37:04.320  INFO 12336 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 15:37:04.320  INFO 12336 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1024 ms
+2020-09-12 15:37:04.570  INFO 12336 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 15:37:04.644  INFO 12336 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-12 15:37:04.810  INFO 12336 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-12 15:37:04.818  INFO 12336 --- [main] com.bigff.blog.BlogApplication           : Started BlogApplication in 2.09 seconds (JVM running for 2.824)
+2020-09-12 15:37:53.370  INFO 14288 --- [main] com.bigff.blog.BlogApplication           : Starting BlogApplication using Java 1.8.0_261 on DESKTOP-UE5H5T5 with PID 14288 (D:\项目\blog\后端\target\classes started by bigff in D:\项目\blog\后端)
+2020-09-12 15:37:53.374 DEBUG 14288 --- [main] com.bigff.blog.BlogApplication           : Running with Spring Boot v2.4.0-SNAPSHOT, Spring v5.3.0-SNAPSHOT
+2020-09-12 15:37:53.374  INFO 14288 --- [main] com.bigff.blog.BlogApplication           : The following profiles are active: dev
+2020-09-12 15:37:54.591  INFO 14288 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-12 15:37:54.598  INFO 14288 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 15:37:54.598  INFO 14288 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 15:37:54.679  INFO 14288 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 15:37:54.680  INFO 14288 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1248 ms
+2020-09-12 15:37:54.925  INFO 14288 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 15:37:54.998  INFO 14288 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-12 15:37:55.158  INFO 14288 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-12 15:37:55.167  INFO 14288 --- [main] com.bigff.blog.BlogApplication           : Started BlogApplication in 2.329 seconds (JVM running for 3.088)
+2020-09-12 15:44:00.395  INFO 14288 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-12 15:44:00.396  INFO 14288 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-12 15:44:00.397  INFO 14288 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2020-09-12 15:44:00.464  INFO 14288 --- [http-nio-8080-exec-1] com.bigff.blog.aspect.LogAspect          : Request : {url='http://127.0.0.1:8080/', ip='127.0.0.1', classMethod='com.bigff.blog.web.IndexControlled.index', args=[]}
+2020-09-12 15:44:00.469  INFO 14288 --- [http-nio-8080-exec-1] com.bigff.blog.aspect.LogAspect          : Request : index
+2020-09-12 16:37:59.055  INFO 4680 --- [main] com.bigff.blog.BlogApplication           : Starting BlogApplication using Java 1.8.0_261 on DESKTOP-UE5H5T5 with PID 4680 (D:\项目\blog\后端\target\classes started by bigff in D:\项目\blog\后端)
+2020-09-12 16:37:59.058 DEBUG 4680 --- [main] com.bigff.blog.BlogApplication           : Running with Spring Boot v2.4.0-SNAPSHOT, Spring v5.3.0-SNAPSHOT
+2020-09-12 16:37:59.059  INFO 4680 --- [main] com.bigff.blog.BlogApplication           : The following profiles are active: dev
+2020-09-12 16:38:00.230  INFO 4680 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-12 16:38:00.237  INFO 4680 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 16:38:00.237  INFO 4680 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 16:38:00.312  INFO 4680 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 16:38:00.312  INFO 4680 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1191 ms
+2020-09-12 16:38:00.586  INFO 4680 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 16:38:00.663  INFO 4680 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-12 16:38:00.835  INFO 4680 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-12 16:38:00.843  INFO 4680 --- [main] com.bigff.blog.BlogApplication           : Started BlogApplication in 2.352 seconds (JVM running for 3.117)
+2020-09-12 16:43:07.868  INFO 10576 --- [main] com.bigff.blog.BlogApplication           : Starting BlogApplication using Java 1.8.0_261 on DESKTOP-UE5H5T5 with PID 10576 (D:\项目\blog\后端\target\classes started by bigff in D:\项目\blog\后端)
+2020-09-12 16:43:07.872 DEBUG 10576 --- [main] com.bigff.blog.BlogApplication           : Running with Spring Boot v2.4.0-SNAPSHOT, Spring v5.3.0-SNAPSHOT
+2020-09-12 16:43:07.873  INFO 10576 --- [main] com.bigff.blog.BlogApplication           : The following profiles are active: dev
+2020-09-12 16:43:09.051  INFO 10576 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-12 16:43:09.057  INFO 10576 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 16:43:09.058  INFO 10576 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 16:43:09.135  INFO 10576 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 16:43:09.135  INFO 10576 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1191 ms
+2020-09-12 16:43:09.411  INFO 10576 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 16:43:09.484  INFO 10576 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-12 16:43:09.657  INFO 10576 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-12 16:43:09.666  INFO 10576 --- [main] com.bigff.blog.BlogApplication           : Started BlogApplication in 2.379 seconds (JVM running for 3.236)
+2020-09-12 16:44:03.515  INFO 12540 --- [main] com.bigff.blog.BlogApplication           : Starting BlogApplication using Java 1.8.0_261 on DESKTOP-UE5H5T5 with PID 12540 (D:\项目\blog\后端\target\classes started by bigff in D:\项目\blog\后端)
+2020-09-12 16:44:03.520 DEBUG 12540 --- [main] com.bigff.blog.BlogApplication           : Running with Spring Boot v2.4.0-SNAPSHOT, Spring v5.3.0-SNAPSHOT
+2020-09-12 16:44:03.520  INFO 12540 --- [main] com.bigff.blog.BlogApplication           : The following profiles are active: dev
+2020-09-12 16:44:04.690  INFO 12540 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-12 16:44:04.699  INFO 12540 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-12 16:44:04.700  INFO 12540 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-12 16:44:04.790  INFO 12540 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-12 16:44:04.791  INFO 12540 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1219 ms
+2020-09-12 16:44:05.084  INFO 12540 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-12 16:44:05.157  INFO 12540 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-12 16:44:05.337  INFO 12540 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-12 16:44:05.345  INFO 12540 --- [main] com.bigff.blog.BlogApplication           : Started BlogApplication in 2.3 seconds (JVM running for 2.999)
